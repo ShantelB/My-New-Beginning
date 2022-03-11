@@ -1,0 +1,20 @@
+{
+  "name": "my-new-beginning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "Moonshiners.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShantelB/My-New-Beginning.git"
+  },
+  "author": "Shantel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShantelB/My-New-Beginning/issues"
+  },
+  "homepage": "https://github.com/ShantelB/My-New-Beginning#readme"
+}
